@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: app2
+  name: app2-default
 spec:
   replicas: 1
   selector:
